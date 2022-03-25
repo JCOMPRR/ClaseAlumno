@@ -70,5 +70,6 @@
             {
                 return nombres + " " + apellidoPaterno + " " + apellidoMaterno;
             }
+        }
     }
 }

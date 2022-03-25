@@ -6,7 +6,7 @@ Alumno alumno1 = new Alumno();
 alumno1.Nombres = "Hector";
 alumno1.ApellidoPaterno = "Favela";
 alumno1.Matricula = "01234";
-alumno1.FechaNacimiento = DateTime(2001, 11, 23);
+alumno1.FechaNacimiento = new DateTime(2001, 11, 23);
 
 
 Alumno alumno2 = new Alumno();
